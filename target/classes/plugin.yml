@@ -1,0 +1,16 @@
+name: MobCoins
+main: me.nefarious.mobcoins.Main
+version: 1.0
+api-version: 1.13
+author: Nefarious
+description: Drops a mob coin on mob kill based on percentage chance
+
+softdepends: [MVdWPlaceholderAPI]
+
+commands:
+  setmobcoins:
+    aliases: [setmc]
+    description: This sets a users mob coins
+  withdrawmobcoins:
+    aliases: [wmb, mbw]
+    description: Withdraw an amount of mob coins

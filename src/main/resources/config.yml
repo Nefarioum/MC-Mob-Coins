@@ -1,0 +1,14 @@
+general:
+  MobCoins_Enabled: true
+  MobCoins_OnlyUseListedMobs: true
+  MobCoins_DefaultPercentage: 50
+  MobCoins_MobsDropCoins: true
+  MobCoins_DepositStack: false
+
+mobs:
+  Skeleton: 50
+  Zombie: 50
+  Chicken: 70
+
+
+
